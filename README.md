@@ -3,7 +3,7 @@
     Best-of Crypto
     <br>
 </h1>
-
+ 
 <p align="center">
     <strong>🏆&nbsp; A ranked list of open-source digital currency and blockchain projects. Updated weekly.</strong>
 </p>
